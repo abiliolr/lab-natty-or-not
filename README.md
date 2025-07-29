@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+🎥 Vídeo: O Impacto da IA Generativa na Educação das Gerações Z e Alpha
+📒 Descrição
+Este vídeo de 3 minutos apresenta uma visão crítica e informada sobre como as IAs Generativas estão influenciando os processos cognitivos e educacionais das gerações Z e Alpha. O conteúdo é baseado no meu Trabalho de Conclusão de Curso (TCC), trazendo reflexões sobre atenção, memória, pensamento crítico e autonomia intelectual em ambientes mediados por IA.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+ChatGPT: roteirização com base no conteúdo do TCC
 
-> Woooow! Look at this 👀
+ElevenLabs: geração da voz sintetizada com entonação natural
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Descript: criação do avatar digital e montagem audiovisual
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🧐 Processo de Criação
+O roteiro foi desenvolvido a partir da fundamentação teórica do meu TCC, com apoio do ChatGPT para adaptação da linguagem ao formato audiovisual. A voz foi sintetizada com ElevenLabs, garantindo clareza e expressividade. O avatar digital foi gerado no Descript, integrando fala e imagem para entregar uma narrativa envolvente e acessível.
 
-### Objetivos
+🚀 Resultados
+O vídeo funciona como uma introdução acessível e visualmente atrativa ao debate sobre IA e educação. Serve tanto como peça de divulgação científica quanto como material de sensibilização sobre os impactos cognitivos da IA em estudantes mais jovens.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+▶️ Assista ao vídeo aqui
 
-### Template
+📄 Saiba mais sobre minha pesquisa (TCC)
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Este projeto foi uma oportunidade de traduzir conhecimento acadêmico em narrativa digital, usando IAs Generativas para aproximar pesquisa, tecnologia e educação de forma crítica e criativa.
