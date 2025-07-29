@@ -1,20 +1,23 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+🎥 Vídeo: O Impacto da IA Generativa na Educação das Gerações Z e Alpha
+📒 Descrição
+Este vídeo de 3 minutos apresenta uma visão crítica e informada sobre como as IAs Generativas estão influenciando os processos cognitivos e educacionais das gerações Z e Alpha. O conteúdo é baseado no meu Trabalho de Conclusão de Curso (TCC), trazendo reflexões sobre atenção, memória, pensamento crítico e autonomia intelectual em ambientes mediados por IA.
 
-## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+🤖 Tecnologias Utilizadas
+ChatGPT: roteirização com base no conteúdo do TCC
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+ElevenLabs: geração da voz sintetizada com entonação natural
 
-## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Descript: criação do avatar digital e montagem audiovisual
 
-## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+🧐 Processo de Criação
+O roteiro foi desenvolvido a partir da fundamentação teórica do meu TCC, com apoio do ChatGPT para adaptação da linguagem ao formato audiovisual. A voz foi sintetizada com ElevenLabs, garantindo clareza e expressividade. O avatar digital foi gerado no Descript, integrando fala e imagem para entregar uma narrativa envolvente e acessível.
 
-[LINK PARA O VÍDEO AQUI]()
+🚀 Resultados
+O vídeo funciona como uma introdução acessível e visualmente atrativa ao debate sobre IA e educação. Serve tanto como peça de divulgação científica quanto como material de sensibilização sobre os impactos cognitivos da IA em estudantes mais jovens.
 
-## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+▶️ Assista ao vídeo aqui
+
+📄 Saiba mais sobre minha pesquisa (TCC)
+
+💭 Reflexão
+Este projeto foi uma oportunidade de traduzir conhecimento acadêmico em narrativa digital, usando IAs Generativas para aproximar pesquisa, tecnologia e educação de forma crítica e criativa.
